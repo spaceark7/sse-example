@@ -1,4 +1,4 @@
-# Project Explanation
+# SSE (Server-Sent Events) example
 
 This project is an SSE (Server-Sent Events) example that demonstrates how to implement real-time communication between a server and a client using SSE technology.
 
@@ -32,6 +32,4 @@ Once the server and client are running, you can perform the following actions:
 
 If you would like to contribute to this project, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE.md file for more details.
